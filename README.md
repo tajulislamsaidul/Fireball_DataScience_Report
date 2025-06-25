@@ -61,31 +61,15 @@ pip install numpy pandas matplotlib seaborn scikit-learn plotly shap joblib
 
 ---
 
-## Example Visuals
+## Visuals
 
-![PCA Clusters](images/pca_clusters.png)
-*PCA components colored by clusters.*
-
-![3D Fireball Intensity](images/3d_fireball_intensity.png)
-*Interactive 3D visualization of fireball particle intensities.*
+![Image Alt](https://github.com/tajulislamsaidul/Fireball_DataScience_Report.pdf/blob/d6b2789da947d7961ab0aedb11309a3fdc84f4a2/Fireball_DataScience_Report.gif)
 
 ---
 
 ## Contributing
 
 Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For questions or collaborations, contact me via LinkedIn or open an issue.
 🔥 Let’s light up data science with fireball insights! 🔥
 
 ---
